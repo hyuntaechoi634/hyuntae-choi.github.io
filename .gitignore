@@ -1,0 +1,22 @@
+# Experiment artifacts
+results.tsv
+run.log
+smoke_test.log
+*.report.json
+*.report.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Reference repo
+autoresearch/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

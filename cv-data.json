@@ -1,0 +1,372 @@
+{
+  "name": "Hyuntae Choi",
+  "title": "PhD in Public Policy",
+  "affiliation": "Graduate School of Green Growth and Sustainability (GGGS), KAIST",
+  "previous_affiliation": "Graduate School of Public Administration, Seoul National University",
+  "email": "chti0265@snu.ac.kr",
+  "phone": "+82 10-5017-0031",
+  "photo": "src/cht-profile.jpg",
+  "links": {
+    "github": "https://github.com/hyuntaechoi634",
+    "linkedin": "https://www.linkedin.com/in/hyuntae-choi-9638843b6/"
+  },
+  "research_interests": [
+    "Climate-energy systems modeling",
+    "Sustainable industrial and economic transitions",
+    "Governance and institutional behavior",
+    "Empirical evaluation of public policy"
+  ],
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Public Policy",
+      "institution": "Seoul National University",
+      "location": "Seoul, Korea",
+      "year": "2021 - 2026",
+      "advisor": "Sangin Park",
+      "committee": "Soonae Park (Chair), Jonghyun Yoo, Sangin Park, Haewon McJeon, Hyung Sik Choi"
+    },
+    {
+      "degree": "Master",
+      "field": "Public Policy",
+      "institution": "Seoul National University",
+      "location": "Seoul, Korea",
+      "year": "2016 - 2019",
+      "advisor": "Sangin Park"
+    },
+    {
+      "degree": "Bachelor",
+      "field": "Economics",
+      "institution": "Seoul National University",
+      "location": "Seoul, Korea",
+      "year": "2010 - 2016"
+    }
+  ],
+  "publications": {
+    "dissertation": [
+      {
+        "authors": "Choi, H.",
+        "year": 2025,
+        "title": "Evaluating Domestic Mitigation Policy Targets under Scenarios of Industrial Competitiveness Erosion and Trade Regulation",
+        "venue": "Ph.D. Dissertation, Seoul National University",
+        "note": "Committee Review in Progress. Expected Graduation: February 2026"
+      }
+    ],
+    "published": [
+      {
+        "authors": "Choi, Hyuntae, Sangin Park, and Haewon McJeon",
+        "year": 2026,
+        "title": "High-ambition climate action in all sectors can achieve a 59% greenhouse gas emissions reduction in Korea by 2035",
+        "venue": "Scientific Reports"
+      },
+      {
+        "authors": "Choi, H., McJeon, H., & Park, S.",
+        "year": 2025,
+        "title": "An integrated assessment of the 11th basic plan for long-term electricity supply and demand and alternative power generation mix scenarios",
+        "venue": "Journal of Climate Change Research, 16(3-1), 469–485",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Park, S., & Choi, H.",
+        "year": 2023,
+        "title": "Trends in tunneling after changes in regulation of related-party transactions, 2011–2022",
+        "venue": "ESG Review, 2023(4), 3–18",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Kim, J., Park, S., & Choi, H.",
+        "year": 2023,
+        "title": "On simulations of housing capital gains tax based on household data",
+        "venue": "Budget Policy Research, 12(4), 61–106",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Choi, H., & Park, S.",
+        "year": 2022,
+        "title": "Government subsidies to occupational pension funds of small-and-medium-sized enterprise employees and their consequences on old-age incomes of these employees in Korea",
+        "venue": "Social Security Studies, 38(1), 5–50",
+        "note": "in Korean"
+      }
+    ],
+    "preprint": [
+      {
+        "authors": "Choi, H., Park, S., & McJeon, H.",
+        "year": 2025,
+        "title": "High-ambition climate action in all sectors can achieve a 60% greenhouse gas emissions reduction in Korea by 2035",
+        "venue": "EarthArXiv",
+        "url": "https://eartharxiv.org/repository/view/9937/"
+      }
+    ],
+    "manuscripts": [
+      {
+        "authors": "Lee, S., Choi, H., & Park, S.",
+        "title": "Has Korea's Stewardship Code Made the NPS More Active? Evidence from Voting Behavior",
+        "note": "Work in progress",
+        "url": "https://www.overleaf.com/read/yvbvsymqmrmk#21db67"
+      },
+      {
+        "authors": "Kim, A., Choi, H., & Jeon, K.",
+        "title": "Impact of Loan Sizes on Small Businesses: Evidence from a Public Loan Guarantee Program",
+        "note": "Work in progress"
+      }
+    ],
+    "policy_reports": [
+      {
+        "authors": "Choi, H., Ha, J., Behrendt, J., Borrero, M., George, M., Bertram, C., Hultman, N., Park, S., McJeon, H., & Cui, R.",
+        "year": 2025,
+        "title": "High ambition pathways for Korea to achieve a 60% NDC target by 2035",
+        "venue": "Center for Global Sustainability",
+        "url": "https://cgs.umd.edu/research-impact/publications/high-ambition-pathways-korea-achieve-60-ndc-target-2035"
+      },
+      {
+        "authors": "Park, S., Kim, J., Choi, H.",
+        "year": 2022,
+        "title": "On simulations of housing capital gains tax based on household data",
+        "venue": "National Assembly Budget Office (Republic of Korea)"
+      },
+      {
+        "authors": "Choi, H., Park, S., Kim, J.",
+        "year": 2022,
+        "title": "A Simulation Study on the Effects of the Comprehensive Real Estate Tax and Capital Gains Tax on Housing Transactions",
+        "venue": "Knowledge Center for Public Administration and Policy, Seoul National University"
+      }
+    ],
+    "internal_policy_reports": [
+      {
+        "title_ko": "경제 불확실성과 지속가능성 대응을 위한 정책 및 제도 혁신 연구",
+        "title_en": "Policy and institutional innovations for economic uncertainty and sustainability challenges",
+        "pi": "Jung, H.",
+        "year": 2026,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "대기업집단과 혁신성장: B2B 와 B2C 비교 연구",
+        "title_en": "Comparative study of innovation-driven growth in Korean business groups: B2B versus B2C sectors",
+        "pi": "Park, S.",
+        "year": 2026,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "한국의 에너지 전환과 탄소상쇄 정책 연구",
+        "title_en": "A study on Korea's energy transition and carbon offset policy",
+        "pi": "Park, S.",
+        "year": 2025,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "스튜어드십 코드 도입 이후 국민연금 주주권행사에 관한 연구",
+        "title_en": "A study on the exercise of shareholder rights by the National Pension Service after the adoption of the Stewardship Code",
+        "pi": "Park, S.",
+        "year": 2025,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "GCAM v7 모형을 이용한 제 11 차 전력수급기본계획의 온실가스배출경로에 관한 시뮬레이션 연구",
+        "title_en": "Simulation study of greenhouse gas emission pathways in the 11th Basic Plan using the GCAM v7 model",
+        "pi": "Park, S.",
+        "year": 2025,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "시장과 정부 연구센터 연구성과 국제화",
+        "title_en": "Internationalization of research outputs from the Center for Market and Government Studies",
+        "pi": "Park, S.",
+        "year": 2023,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "전통적인 산업생산성과 탄소생산성의 관계 추정 연구",
+        "title_en": "Estimating the relationship between traditional industrial productivity and carbon productivity",
+        "pi": "Park, S.",
+        "year": 2023,
+        "funder": "Seoul National University R&DB Foundation"
+      },
+      {
+        "title_ko": "한국재벌의 소유지배구조 및 내부거래를 통한 터널링 현황에 관한 연구",
+        "title_en": "A study on the ownership and control structures of Korean business groups and tunneling via internal transactions",
+        "pi": "Park, S.",
+        "year": 2022,
+        "funder": "Seoul National University R&DB Foundation"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "years": "2021-2025",
+      "title": "Research Assistant",
+      "organization": "Seoul National University"
+    },
+    {
+      "years": "2018-2025",
+      "title": "Lecturer",
+      "organization": "Extension College, Seoul National University"
+    },
+    {
+      "years": "2019-2021",
+      "title": "Social Service Personnel (Military service alternative program)",
+      "organization": "Seoul National University"
+    }
+  ],
+  "awards": [
+    {
+      "year": "2024-2025",
+      "title": "Scholarship for Next Generation Scholars",
+      "organization": "National Research Foundation of Korea"
+    },
+    {
+      "year": "2021-2022",
+      "title": "BK Outstanding Research Talent Fellowship",
+      "organization": "BK21 Four Education Research Group"
+    },
+    {
+      "year": "2022-2024",
+      "title": "BK21 FOUR Research Fellowship",
+      "organization": "Global Convergence & Innovation Talent for Inclusive Governance",
+      "pi": "Chun, Y."
+    },
+    {
+      "year": "2021-2022",
+      "title": "BK21 FOUR Research Fellowship",
+      "organization": "Global Convergence & Innovation Talent for Inclusive Governance",
+      "pi": "Jung, K."
+    },
+    {
+      "year": "2019",
+      "title": "BK21 PLUS Research Fellowship",
+      "organization": "Creative Talent for Smart Governance",
+      "pi": "Im, T."
+    },
+    {
+      "year": "2010",
+      "title": "Scholarship for Academic Excellence",
+      "organization": "Seoul National University"
+    },
+    {
+      "year": "2010",
+      "title": "Entrance Scholarship for Academic Excellence",
+      "organization": "Seoul National University"
+    }
+  ],
+  "presentations": {
+    "invited": [
+      {
+        "year": "Fall 2025",
+        "title": "High-Ambition Climate Action for 60% GHG Reduction in Korea",
+        "venue": "Guest Lecture for Climate and Environmental Scenario Assessment Methodology (GGS621), KAIST, Daejeon, Korea"
+      },
+      {
+        "year": "Fall 2025",
+        "title": "High-Ambition Climate Action for 60% GHG Reduction in Korea",
+        "venue": "Oral Presenter for Social Cost of Carbon Research Group Workshop, Sejong, Korea"
+      },
+      {
+        "year": "Fall 2025",
+        "title": "High-Ambition Climate Action for 60% GHG Reduction in Korea",
+        "venue": "Lecture (with Prof. McJeon, H.), Solution for Our Climate, Seoul, Korea"
+      },
+      {
+        "year": "Fall 2023",
+        "title": "Introduction to Web Scraping with Python",
+        "venue": "Lecture, National Assembly Research Service"
+      }
+    ],
+    "contributed": [
+      {
+        "authors": "Choi, H., Park, S., McJeon, H.",
+        "year": 2025,
+        "title": "High-Ambition Climate Action for 60% GHG Reduction in Korea",
+        "venue": "Integrated Assessment Modeling Consortium (IAMC), Rio de Janeiro, Brazil",
+        "type": "Oral presentation (online attendance)"
+      },
+      {
+        "authors": "Choi, H., Park, S., McJeon, H.",
+        "year": 2025,
+        "title": "High-Ambition Climate Action for 60% GHG Reduction in Korea",
+        "venue": "Public Management Research Conference (PMRC), Seoul, Korea",
+        "type": "Poster presentation"
+      },
+      {
+        "authors": "Choi, H., McJeon, H., Park, S.",
+        "year": 2025,
+        "title": "Integrated Assessment of the 11th Basic Plan for Long-Term Electricity Supply and Demand and Alternative Scenarios",
+        "venue": "Korean Society of Climate Change Research (KSCCR), Seoul, Korea",
+        "type": "Oral presentation",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Choi, H., McJeon, H., Park, S.",
+        "year": 2024,
+        "title": "Integrated Assessment of the 11th Basic Plan for Long-Term Electricity Supply and Demand and Alternative Scenarios",
+        "venue": "Korean Association for Public Administration (KAPA), Seoul, Korea",
+        "type": "Oral Presentation",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Choi, H.",
+        "year": 2022,
+        "title": "Assessing the Effectiveness of Tunneling Regulations: Evidence Based on Ultimate Cash-Flow Rights",
+        "venue": "Korean Association for Public Administration (KAPA), Yeosu, Korea",
+        "type": "Oral Presentation",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Choi, H.",
+        "year": 2022,
+        "title": "Responses of Controlling Shareholders to Article 23-2 of the Fair Trade Act: Empirical Tests on Avoidance Hypotheses",
+        "venue": "SNU GSPA–Rutgers SPAA International Conference, Seoul, Korea",
+        "type": "Oral presentation"
+      },
+      {
+        "authors": "Choi, H., Park, S.",
+        "year": 2022,
+        "title": "How Did Korean Business Group Affiliates Respond to Tunneling Regulations? Evidence from a Quasi-Experimental Approach",
+        "venue": "Korean Association for Public Administration (KAPA), Seoul, Korea",
+        "type": "Oral presentation",
+        "note": "in Korean"
+      },
+      {
+        "authors": "Choi, H., Kim, J., Park, S.",
+        "year": 2022,
+        "title": "On Simulations of Housing Capital Gains Tax Based on Household Data",
+        "venue": "Korean Association for Public Administration (KAPA), Seoul, Korea",
+        "type": "Oral presentation"
+      },
+      {
+        "authors": "Choi, H., Kim, J.",
+        "year": 2021,
+        "title": "Effects of Tax Policy Changes on Housing Market Transactions: Focusing on the Comprehensive Real Estate Tax and Capital Gains Tax",
+        "venue": "Korean Association for Public Administration (KAPA), Seoul, Korea",
+        "type": "Oral presentation"
+      },
+      {
+        "authors": "Choi, H.",
+        "year": 2021,
+        "title": "Government Subsidies to Occupational Pension Funds of Small-and-Medium-Sized Enterprise Employees and Their Consequences on Old-Age Incomes of these Employees in Korea",
+        "venue": "BK Research Group National Conference, Busan, Korea",
+        "type": "Oral presentation"
+      }
+    ]
+  },
+  "teaching": [
+    {"year": "Fall 2025", "course": "Econometric Analysis 3 (Doctoral Required Course)", "role": "Teaching Assistant", "professor": "Sangin Park"},
+    {"year": "Fall 2024", "course": "Econometric Analysis 3 (Doctoral Required Course)", "role": "Teaching Assistant", "professor": "Sangin Park"},
+    {"year": "Fall 2023", "course": "Econometric Analysis 3 (Doctoral Required Course)", "role": "Teaching Assistant", "professor": "Sangin Park"},
+    {"year": "Fall 2022", "course": "Introduction to Computing", "role": "Teaching Assistant", "professor": "Sang Ah Lee"},
+    {"year": "Spring 2022", "course": "Core Computing", "role": "Teaching Assistant", "professor": "Haesun Byun"},
+    {"year": "Fall 2021", "course": "Economic Analysis (Master's Required Course)", "role": "Teaching Assistant", "professor": "Sangin Park"}
+  ],
+  "peer_review": [
+    "Scientific Reports",
+    "Energy and Climate Change"
+  ],
+  "skills": {
+    "languages": [
+      {"language": "Korean", "level": "Native"},
+      {"language": "English", "level": "Advanced"},
+      {"language": "Chinese", "level": "Basic"},
+      {"language": "Arabic", "level": "Beginner"}
+    ],
+    "data_analysis": "Python (Advanced), R (Intermediate), STATA (Advanced)",
+    "modeling": "Econometrics (Advanced), Machine Learning (Intermediate), GCAM (Advanced), PyPSA (Intermediate)"
+  }
+}
