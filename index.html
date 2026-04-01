@@ -120,6 +120,24 @@
             vertical-align: middle;
             margin-right: 6px;
         }
+        @media (max-width: 600px) {
+            body { padding: 16px; }
+            .header-row {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            .profile-photo {
+                margin-top: 0;
+                width: 140px;
+                height: 180px;
+            }
+            h1 { font-size: 1.7em; }
+            .contact { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; }
+            .contact a { margin-right: 0; }
+            .interests { justify-content: center; }
+            .pub { font-size: 0.93em; }
+        }
         @media print {
             body { color: #333; max-width: 100%; padding: 0; }
             a { color: #333; text-decoration: none; }
