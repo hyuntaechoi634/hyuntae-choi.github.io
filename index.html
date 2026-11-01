@@ -121,6 +121,23 @@
             vertical-align: middle;
             margin-right: 6px;
         }
+        .logo-emblem {
+            width: 28px;
+            object-fit: contain;
+        }
+        .logo-emblem-rcmg {
+            display: inline-block;
+            position: relative;
+            overflow: hidden;
+        }
+        .logo-emblem-rcmg img {
+            /* The 133 × 135 source has a 117 × 117 emblem at (10, 12). */
+            position: absolute;
+            width: calc(100% * 133 / 117);
+            height: calc(100% * 135 / 117);
+            left: calc(-100% * 10 / 117);
+            top: calc(-100% * 12 / 117);
+        }
         .short-name { display: none; }
         @media (max-width: 600px) {
             .full-name { display: none; }
@@ -179,7 +196,7 @@
         <h2>Education</h2>
 
         <div class="edu-entry">
-            <div class="institution"><img src="src/snu-logo.png" alt="Seoul National University logo" class="logo-inline" width="28" height="28">Seoul National University <span class="year">2021 – 2026</span></div>
+            <div class="institution"><img src="src/snu-logo.png" alt="Seoul National University logo" class="logo-inline logo-emblem" width="28" height="28">Seoul National University <span class="year">2021 – 2026</span></div>
             <div>PhD in Public Policy</div>
             <div class="details">Supervisor: Sangin Park</div>
             <div class="details">Committee: Soonae Park (Chair), Jonghyun Yoo (Vice Chair), Sangin Park, Haewon McJeon, Hyung Sik Choi</div>
@@ -187,13 +204,13 @@
         </div>
 
         <div class="edu-entry">
-            <div class="institution"><img src="src/snu-logo.png" alt="Seoul National University logo" class="logo-inline" width="28" height="28">Seoul National University <span class="year">2016 – 2019</span></div>
+            <div class="institution"><img src="src/snu-logo.png" alt="Seoul National University logo" class="logo-inline logo-emblem" width="28" height="28">Seoul National University <span class="year">2016 – 2019</span></div>
             <div>Master in Public Policy</div>
             <div class="details">Thesis: <em>On Adequacy of Reverse Mortgage: Focusing on Simulation of Household Actor</em></div>
         </div>
 
         <div class="edu-entry">
-            <div class="institution"><img src="src/snu-logo.png" alt="Seoul National University logo" class="logo-inline" width="28" height="28">Seoul National University <span class="year">2010 – 2016</span></div>
+            <div class="institution"><img src="src/snu-logo.png" alt="Seoul National University logo" class="logo-inline logo-emblem" width="28" height="28">Seoul National University <span class="year">2010 – 2016</span></div>
             <div>Bachelor of Economics</div>
         </div>
     </section>
@@ -270,6 +287,14 @@
         </div>
     </section>
 
+    <section id="invited-talks">
+        <h2>Invited Talks</h2>
+
+        <div class="pub" id="sfoc-2025">
+            <strong>Choi, H.</strong> (2025, July 18). High-ambition climate action for 60% GHG reduction in Korea. <span class="venue">Solutions for Our Climate (SFOC), Seoul, Korea.</span> <span class="note">Lecture with Haewon McJeon.</span>
+        </div>
+    </section>
+
     <section id="conference-presentations">
         <h2>Conference Presentations</h2>
 
@@ -342,19 +367,19 @@
         <h2>Experience</h2>
 
         <div class="exp-entry">
-            <img src="src/emblem2.gif" alt="KAIST emblem" class="logo-inline" width="28" height="28"><strong>Postdoctoral Researcher</strong>, KAIST IAM Group <span class="year">2026</span>
+            <img src="src/emblem2.gif" alt="KAIST emblem" class="logo-inline logo-emblem" width="28" height="28"><strong>Postdoctoral Researcher</strong>, KAIST IAM Group <span class="year">2026</span>
         </div>
         <div class="exp-entry">
-            <img src="src/rcmg_logo.png" alt="RCMG logo" class="logo-inline" width="28" height="28"><strong>Doctoral Research Assistant</strong>, Research Center for Market and Government <span class="year">2021–2026</span>
+            <span class="logo-inline logo-emblem logo-emblem-rcmg"><img src="src/rcmg_logo.png" alt="RCMG logo" width="133" height="135"></span><strong>Doctoral Research Assistant</strong>, Research Center for Market and Government <span class="year">2021–2026</span>
         </div>
         <div class="exp-entry">
-            <img src="src/snu-logo.png" alt="SNU logo" class="logo-inline" width="28" height="28"><strong>Lecturer</strong>, Extension College, Seoul National University <span class="year">2018–2025</span>
+            <img src="src/snu-logo.png" alt="SNU logo" class="logo-inline logo-emblem" width="28" height="28"><strong>Lecturer</strong>, Extension College, Seoul National University <span class="year">2018–2025</span>
         </div>
         <div class="exp-entry">
-            <img src="src/snu-logo.png" alt="SNU logo" class="logo-inline" width="28" height="28"><strong>Social Service Personnel</strong> (Military service alternative), Seoul National University <span class="year">2019–2021</span>
+            <img src="src/snu-logo.png" alt="SNU logo" class="logo-inline logo-emblem" width="28" height="28"><strong>Social Service Personnel</strong> (Military service alternative), Seoul National University <span class="year">2019–2021</span>
         </div>
         <div class="exp-entry">
-            <img src="src/rcmg_logo.png" alt="RCMG logo" class="logo-inline" width="28" height="28"><strong>Master Research Assistant</strong>, Research Center for Market and Government <span class="year">2016–2019</span>
+            <span class="logo-inline logo-emblem logo-emblem-rcmg"><img src="src/rcmg_logo.png" alt="RCMG logo" width="133" height="135"></span><strong>Master Research Assistant</strong>, Research Center for Market and Government <span class="year">2016–2019</span>
         </div>
     </section>
 
